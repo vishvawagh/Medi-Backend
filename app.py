@@ -24,9 +24,40 @@ app = Flask(__name__)
 CORS(app)
 
 # Load models
+# try:
+#     plant_model = tf.keras.models.load_model(r"C:\Users\vishva\Desktop\Projects\Model\my_modelp.keras")
+#     leaf_model = tf.keras.models.load_model(r"C:\Users\vishva\Desktop\Projects\Model\my_modell.keras")
+#     print("Models loaded.")
+# except Exception as e:
+#     print("Model loading error:", e)
+#     plant_model = None
+#     leaf_model = None
+import requests
+
+# Model URLs (🔁 Replace these with your actual URLs)
+PLANT_MODEL_URL = "https://drive.google.com/file/d/15F883O011XGyC_8HS3Xe-IX8_B6xu8Ss/view?usp=drive_link"
+LEAF_MODEL_URL = "https://drive.google.com/file/d/13rHVQ7A9i_qfJkfU_lkMMJtav_a2avCW/view?usp=sharing"
+
+# Function to download the model if not exists
+def download_model(url, filename):
+    if not os.path.exists(filename):
+        print(f"Downloading model: {filename} ...")
+        r = requests.get(url, stream=True)
+        if r.status_code == 200:
+            with open(filename, 'wb') as f:
+                for chunk in r.iter_content(1024):
+                    f.write(chunk)
+            print(f"Downloaded {filename}")
+        else:
+            raise Exception(f"Failed to download model from {url}")
+
+# Download + Load models
 try:
-    plant_model = tf.keras.models.load_model(r"C:\Users\vishva\Desktop\Projects\Model\my_modelp.keras")
-    leaf_model = tf.keras.models.load_model(r"C:\Users\vishva\Desktop\Projects\Model\my_modell.keras")
+    download_model(PLANT_MODEL_URL, "my_modelp.keras")
+    download_model(LEAF_MODEL_URL, "my_modell.keras")
+
+    plant_model = tf.keras.models.load_model("my_modelp.keras")
+    leaf_model = tf.keras.models.load_model("my_modell.keras")
     print("Models loaded.")
 except Exception as e:
     print("Model loading error:", e)
