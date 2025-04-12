@@ -8,562 +8,275 @@
     },
     {
         "Name": "Amla",
-        "Description": "Also known as Indian gooseberry, it is a small tree native to India that produces greenish-yellow fruit renowned for its high vitamin C content.",
-        "Location": "Native to India and found in tropical and subtropical regions of Asia.",
-        "Medical_Usage": "Used in traditional Ayurvedic medicine for improving digestion, boosting immunity, and promoting hair growth.",
-        "Know_More": "https://en.wikipedia.org/wiki/Phyllanthus_emblica"
-    },
-    {
-        "Name": "Amruthaballi",
-        "Description": "Known as Giloy or Guduchi, it is a climbing shrub native to India. It has heart-shaped leaves and is valued for its medicinal properties.",
-        "Location": "Found in tropical regions, especially in the Indian subcontinent.",
-        "Medical_Usage": "Used in Ayurveda for its immunomodulatory properties, treating fever, diabetes, and improving digestion.",
+        "Description": "A deciduous tree native to the Indian subcontinent, known for its small, greenish-yellow fruits rich in vitamin C and antioxidants.",
+        "Location": "Commonly found in deciduous forests and cultivated across India, including states like Uttar Pradesh, Himachal Pradesh, and Tamil Nadu.",
+        "Medical_Usage": "Utilized in traditional medicine for its antioxidant properties; used to treat conditions like diabetes, inflammation, and digestive disorders.",
+        "Know_More": "https://www.nccih.nih.gov/health/amla"
+      },
+      {
+        "Name": "Amruta_Balli",
+        "Description": "A large climbing shrub known for its heart-shaped leaves and medicinal properties, commonly referred to as Giloy in Hindi.",
+        "Location": "Widely distributed throughout tropical regions of India, including dry and deciduous forests.",
+        "Medical_Usage": "Used in traditional medicine to boost immunity, treat fevers, and manage diabetes; known for its anti-inflammatory and antioxidant properties.",
         "Know_More": "https://en.wikipedia.org/wiki/Tinospora_cordifolia"
-    },
-    {
+      },
+      {
         "Name": "Arali",
-        "Description": "A plant known for its large leaves and medicinal uses in traditional medicine.",
-        "Location": "Found in tropical and subtropical regions, often cultivated in gardens.",
-        "Medical_Usage": "Used for treating respiratory ailments and as an anti-inflammatory.",
+        "Description": "A flowering plant known for its ornamental value and fragrant flowers, commonly referred to as Oleander.",
+        "Location": "Native to the Mediterranean region and widely cultivated in tropical and subtropical areas.",
+        "Medical_Usage": "Despite its toxicity, it has been used in traditional medicine for heart conditions and as a diuretic; however, caution is advised due to its poisonous nature.",
         "Know_More": "https://en.wikipedia.org/wiki/Nerium"
-    },
-    {
-        "Name": "Astma_weed",
-        "Description": "Also known as Euphorbia hirta, it is a small annual herb known for its medicinal properties in treating asthma and other respiratory disorders.",
-        "Location": "Found in tropical and subtropical regions worldwide, often considered a weed in gardens.",
-        "Medical_Usage": "Used traditionally for treating asthma, bronchitis, and skin infections.",
-        "Know_More": "https://en.wikipedia.org/wiki/Euphorbia_hirta"
-    },
-    {
-        "Name": "Badipala",
-        "Description": "A plant known for its ornamental value and used in traditional medicine for various health benefits.",
-        "Location": "Found in gardens and cultivated areas in tropical and subtropical regions.",
-        "Medical_Usage": "Used for treating skin disorders, promoting hair growth, and as a diuretic.",
-        "Know_More": "https://en.wikipedia.org/wiki/Gymnema_sylvestre"
-    },
-    {
-        "Name": "Balloon_Vine",
-        "Description": "A climbing plant known for its small white flowers and inflated seed pods, found in tropical and subtropical regions.",
-        "Location": "Commonly found in disturbed areas, gardens, and along roadsides.",
-        "Medical_Usage": "Used in traditional medicine for its diuretic, antipyretic, and anti-inflammatory properties.",
-        "Know_More": "https://en.wikipedia.org/wiki/Cardiospermum_halicacabum"
-    },
-    {
-        "Name": "Bamboo",
-        "Description": "A fast-growing woody plant known for its strength and versatility, used in construction and various crafts.",
-        "Location": "Native to Asia, found in tropical and temperate regions worldwide.",
-        "Medical_Usage": "Used in traditional medicine for treating fever, respiratory disorders, and as a source of nutrients.",
-        "Know_More": "https://en.wikipedia.org/wiki/Bamboo"
-    },
-    {
-        "Name": "Beans",
-        "Description": "A variety of leguminous plants cultivated for their edible seeds and pods.",
-        "Location": "Grown in gardens, farms, and cultivated areas worldwide.",
-        "Medical_Usage": "Rich in protein and nutrients, used in diets to promote heart health and manage diabetes.",
-        "Know_More": "https://en.wikipedia.org/wiki/Bean"
-    },
-    {
-        "Name": "Betel",
-        "Description": "A vine belonging to the Piperaceae family, cultivated for its leaves which are chewed with betel nut and lime as a stimulant.",
-        "Location": "Native to Southeast Asia and cultivated in tropical regions.",
-        "Medical_Usage": "Used in traditional medicine for its stimulant, carminative, and antiseptic properties.",
-        "Know_More": "https://en.wikipedia.org/wiki/Betel"
-    },
-    {
-        "Name": "Bhrami",
-        "Description": "A creeping herb known for its medicinal properties, used in Ayurvedic medicine to enhance memory and cognitive functions.",
-        "Location": "Found in damp and marshy areas in tropical regions.",
-        "Medical_Usage": "Used for improving memory, reducing anxiety, and treating epilepsy and asthma.",
-        "Know_More": "https://en.wikipedia.org/wiki/Bacopa_monnieri"
-    },
-    {
-        "Name": "Bringaraja",
-        "Description": "Also known as False Daisy, it is a herbaceous plant valued for its medicinal properties in hair care and traditional medicine.",
-        "Location": "Native to India and Southeast Asia, cultivated in tropical regions.",
-        "Medical_Usage": "Used in Ayurvedic medicine for promoting hair growth, treating liver disorders, and as a diuretic.",
-        "Know_More": "https://en.wikipedia.org/wiki/Eclipta_prostrata"
-    },
-    {
-        "Name": "Caricature",
-        "Description": "A small tropical tree with edible fruit, known for its medicinal properties in traditional medicine.",
-        "Location": "Found in tropical and subtropical regions, cultivated for its fruit.",
-        "Medical_Usage": "Used for treating digestive disorders, promoting heart health, and as a diuretic.",
-        "Know_More": "https://en.wikipedia.org/wiki/Graptophyllum_pictum"
-    },
-    {
-        "Name": "Castor",
-        "Description": "A fast-growing shrub cultivated for its seeds, which are the source of castor oil used in various industrial and medicinal applications.",
-        "Location": "Native to Africa and India, cultivated in tropical and subtropical regions worldwide.",
-        "Medical_Usage": "Used in traditional medicine for its laxative, anti-inflammatory, and antibacterial properties.",
-        "Know_More": "https://en.wikipedia.org/wiki/Ricinus"
-    },
-    {
-        "Name": "Catharanthus",
-        "Description": "A genus of flowering plants known for their colorful flowers and medicinal properties.",
-        "Location": "Found in tropical and subtropical regions, cultivated as ornamental and medicinal plants.",
-        "Medical_Usage": "Used for producing vinblastine and vincristine, chemotherapy drugs for treating cancer.",
-        "Know_More": "https://en.wikipedia.org/wiki/Catharanthus"
-    },
-    {
-        "Name": "Chakte",
-        "Description": "A small tree native to Mexico known for its medicinal uses.",
-        "Location": "Found in tropical and subtropical regions, cultivated for its wood and medicinal properties.",
-        "Medical_Usage": "Used in traditional medicine for treating fever, inflammation, and digestive disorders.",
-        "Know_More": "https://en.wikipedia.org/wiki/Jatropha_curcas"
-    },
-    {
-        "Name": "Chilly",
-        "Description": "A spicy fruit from plants belonging to the genus Capsicum, widely used in culinary dishes worldwide.",
-        "Location": "Cultivated in gardens and farms in tropical and subtropical regions.",
-        "Medical_Usage": "Used for its capsaicin content, which has analgesic properties and is used in topical creams for pain relief.",
-        "Know_More": "https://en.wikipedia.org/wiki/Chili_pepper"
-    },
-    {
-        "Name": "Citron lime (herelikai)",
-        "Description": "A citrus fruit tree known for its distinctive aroma and culinary uses.",
-        "Location": "Native to Southeast Asia and cultivated in tropical regions worldwide.",
-        "Medical_Usage": "Used in traditional medicine for its antioxidant properties and to aid digestion.",
-        "Know_More": "https://en.wikipedia.org/wiki/Citron"
-    },
-    {
-        "Name": "Coffee",
-        "Description": "A small evergreen tree cultivated for its beans, which are roasted and brewed to make coffee.",
-        "Location": "Native to tropical Africa and cultivated in tropical and subtropical regions worldwide.",
-        "Medical_Usage": "Used as a stimulant, improves mental alertness and physical performance, and contains antioxidants.",
-        "Know_More": "https://en.wikipedia.org/wiki/Coffea"
-    },
-    {
-        "Name": "Common rue(naagdalli)",
-        "Description": "A perennial herb known for its blue-green foliage and medicinal properties.",
-        "Location": "Native to Mediterranean regions and cultivated in gardens worldwide.",
-        "Medical_Usage": "Used in traditional medicine for treating menstrual disorders, arthritis, and as an insect repellent.",
-        "Know_More": "https://en.wikipedia.org/wiki/Ruta_graveolens"
-    },
-    {
-        "Name": "Coriender",
-        "Description": "Also known as cilantro or Chinese parsley, it is an annual herb cultivated for its leaves and seeds used in culinary dishes.",
-        "Location": "Native to regions spanning from Southern Europe and North Africa to southwestern Asia.",
-        "Medical_Usage": "Used in traditional medicine for its digestive, antibacterial, and antioxidant properties.",
-        "Know_More": "https://en.wikipedia.org/wiki/Coriander"
-    },
-    {
-        "Name": "Curry",
-        "Description": "A variety of aromatic herbs and spices used to prepare curry dishes, known for their culinary and medicinal properties.",
-        "Location": "Cultivated in gardens and farms in tropical and subtropical regions worldwide.",
-        "Medical_Usage": "Used in traditional medicine for its anti-inflammatory, antimicrobial, and digestive benefits.",
-        "Know_More": "https://en.wikipedia.org/wiki/Curry_tree"
-    },
-    {
-        "Name": "Doddpathre",
-        "Description": "A medicinal plant used in Ayurvedic and traditional medicine for its therapeutic properties.",
-        "Location": "Found in tropical and subtropical regions, often cultivated in gardens.",
-        "Medical_Usage": "Used for treating respiratory disorders, promoting digestion, and as a natural insect repellent.",
-        "Know_More": "https://en.wikipedia.org/wiki/Coleus_amboinicus"
-    },
-    {
-        "Name": "Drumstick",
-        "Description": "A fast-growing tree known for its long, slender pods filled with seeds that are used in culinary dishes and traditional medicine.",
-        "Location": "Native to India and cultivated in tropical and subtropical regions worldwide.",
-        "Medical_Usage": "Used for its nutritional value, promoting digestion, and as an anti-inflammatory.",
-        "Know_More": "https://en.wikipedia.org/wiki/Moringa_oleifera"
-    },
-    {
-        "Name": "Ekka",
-        "Description": "A tree with small yellow flowers and oval leaves, known for its medicinal properties in traditional medicine.",
-        "Location": "Native to tropical and subtropical regions, often found near water bodies.",
-        "Medical_Usage": "Used for treating skin diseases, fever, and respiratory ailments.",
-        "Know_More": "https://en.wikipedia.org/wiki/Calotropis_gigantea"
-    },
-    {
-        "Name": "Eucalyptus",
-        "Description": "A genus of trees known for their aromatic leaves and medicinal properties.",
-        "Location": "Native to Australia, now cultivated in temperate and subtropical regions worldwide.",
-        "Medical_Usage": "Used for its antiseptic, expectorant, and decongestant properties in treating respiratory conditions.",
-        "Know_More": "https://en.wikipedia.org/wiki/Eucalyptus"
-    },
-    {
-        "Name": "Ganigale",
-        "Description": "A herbaceous plant with aromatic leaves and small white flowers, used in traditional medicine for its medicinal properties.",
-        "Location": "Native to tropical and subtropical regions, cultivated for its medicinal uses.",
-        "Medical_Usage": "Used for treating digestive disorders, as an antispasmodic, and for its calming effects.",
-        "Know_More": "https://en.wikipedia.org/wiki/Galangal"
-    },
-    {
-        "Name": "Ganike",
-        "Description": "A vine known for its heart-shaped leaves and small white flowers, used in traditional medicine for its medicinal properties.",
-        "Location": "Found in tropical and subtropical regions, often cultivated as an ornamental plant.",
-        "Medical_Usage": "Used for treating skin diseases, fever, and respiratory ailments.",
-        "Know_More": "https://en.wikipedia.org/wiki/Solanum_nigrum"
-    },
-    {
-        "Name": "Gasagase",
-        "Description": "A plant known for its small white flowers and seeds, used in culinary dishes and traditional medicine.",
-        "Location": "Native to South Asia, cultivated in tropical and subtropical regions.",
-        "Medical_Usage": "Used for its anti-inflammatory properties and as a digestive aid.",
-        "Know_More": "https://en.wikipedia.org/wiki/Papaver_somniferum"
-    },
-    {
-        "Name": "Ginger",
-        "Description": "A flowering plant known for its underground rhizomes used as a spice and in traditional medicine.",
-        "Location": "Native to Southeast Asia, cultivated in tropical and subtropical regions worldwide.",
-        "Medical_Usage": "Used for treating nausea, indigestion, inflammation, and as an antioxidant.",
-        "Know_More": "https://en.wikipedia.org/wiki/Ginger"
-    },
-    {
-        "Name": "Globe Amarnath",
-        "Description": "An annual herb with pink or purple flowers, cultivated for its edible and medicinal uses.",
-        "Location": "Native to subtropical regions, commonly grown in gardens and cultivated areas.",
-        "Medical_Usage": "Used in traditional medicine for treating diarrhea, inflammation, and as an antioxidant.",
-        "Know_More": "https://en.wikipedia.org/wiki/Gomphrena_globosa"
-    },
-    {
-        "Name": "Guava",
-        "Description": "A small tree or shrub with edible fruits, known for its nutritional value and medicinal uses.",
-        "Location": "Native to tropical America, now grown in tropical and subtropical regions worldwide.",
-        "Medical_Usage": "Used for its high vitamin C content, as an antidiarrheal, and for its wound healing properties.",
-        "Know_More": "https://en.wikipedia.org/wiki/Guava"
-    },
-    {
-        "Name": "Henna",
-        "Description": "A flowering plant known for its dye-producing leaves, used in cosmetic and medicinal applications.",
-        "Location": "Native to North Africa, West Asia, and South Asia, cultivated in tropical and subtropical regions.",
-        "Medical_Usage": "Used for dyeing hair, skin, and nails; also used for its cooling and anti-inflammatory properties.",
-        "Know_More": "https://en.wikipedia.org/wiki/Lawsonia_inermis"
-    },
-    {
-        "Name": "Hibiscus",
-        "Description": "A genus of flowering plants known for their large, colorful flowers and medicinal properties.",
-        "Location": "Native to tropical and subtropical regions, cultivated as ornamental plants and for medicinal use.",
-        "Medical_Usage": "Used for lowering blood pressure, as a diuretic, and for its antioxidant properties.",
-        "Know_More": "https://en.wikipedia.org/wiki/Hibiscus"
-    },
-    {
-        "Name": "Honge",
-        "Description": "A medium-sized tree with bright yellow flowers, known for its medicinal properties in traditional medicine.",
-        "Location": "Native to tropical regions, commonly found in forests and cultivated areas.",
-        "Medical_Usage": "Used for treating skin diseases, digestive disorders, and as an anti-inflammatory agent.",
-        "Know_More": "https://en.wikipedia.org/wiki/Pongamia"
-    },
-    {
-        "Name": "Insulin",
-        "Description": "A climbing vine with yellow flowers, used in traditional medicine for its medicinal properties.",
-        "Location": "Native to tropical and subtropical regions, often cultivated for its medicinal uses.",
-        "Medical_Usage": "Used for treating diabetes, skin diseases, and as a diuretic.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Chamaecostus_cuspidatus"
-    },
-    {
-        "Name": "Jackfruit",
-        "Description": "A large tropical tree with edible fruits that are a source of food and medicinal benefits.",
-        "Location": "Native to South and Southeast Asia, now cultivated in tropical regions worldwide.",
-        "Medical_Usage": "Used for its nutritional value, as a digestive aid, and for treating skin diseases.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Jackfruit"
-    },
-    {
-        "Name": "Jasmine",
-        "Description": "A genus of shrubs and vines known for their fragrant white or yellow flowers, used in perfumery and traditional medicine.",
-        "Location": "Native to tropical and temperate regions, cultivated for ornamental purposes and medicinal use.",
-        "Medical_Usage": "Used for treating headaches, insomnia, anxiety, and as a sedative.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Jasmine"
-    },
-    {
-        "Name": "Kambajala",
-        "Description": "A plant with aromatic leaves and small white flowers, used in traditional medicine for its medicinal properties.",
-        "Location": "Native to tropical and subtropical regions, often found in gardens and cultivated areas.",
-        "Medical_Usage": "Used for treating digestive disorders, respiratory ailments, and as an anti-inflammatory.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Leucas_aspera"
-    },
-    {
-        "Name": "Kasambruga",
-        "Description": "A small shrub with yellow flowers, known for its medicinal properties in traditional medicine.",
-        "Location": "Native to tropical and subtropical regions, commonly found in coastal areas.",
-        "Medical_Usage": "Used for treating skin diseases, fever, and respiratory ailments.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Cassia_fistula"
-    },
-    {
-        "Name": "Kohlrabi",
-        "Description": "A biennial vegetable with a swollen stem that resembles a turnip, used for its edible bulb and leaves.",
-        "Location": "Native to Europe, now cultivated in temperate and subtropical regions worldwide.",
-        "Medical_Usage": "Used for its nutritional value, as a diuretic, and for treating digestive disorders.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Kohlrabi"
-    },
-    {
-        "Name": "Lantana",
-        "Description": "A genus of flowering plants known for their colorful flowers and medicinal uses in traditional medicine.",
-        "Location": "Native to tropical and subtropical regions, cultivated as ornamental plants and for medicinal purposes.",
-        "Medical_Usage": "Used for treating skin diseases, respiratory ailments, and as an insect repellent.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Lantana"
-    },
-    {
-        "Name": "Lemon",
-        "Description": "A small evergreen tree with edible fruits known for their acidic juice used in culinary and medicinal applications.",
-        "Location": "Native to South Asia, now grown in tropical and subtropical regions worldwide.",
-        "Medical_Usage": "Used for its high vitamin C content, as a digestive aid, and for its antibacterial properties.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Lemon"
-    },
-    {
-        "Name": "Lemongrass",
-        "Description": "A tall perennial grass known for its lemony flavor and medicinal properties.",
-        "Location": "Native to tropical and subtropical regions of Asia, now cultivated worldwide.",
-        "Medical_Usage": "Used for its antimicrobial, anti-inflammatory, and digestive properties.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Cymbopogon"
-    },
-    {
-        "Name": "Malabar_Nut",
-        "Description": "A shrub with violet flowers and medicinal properties in traditional medicine.",
-        "Location": "Native to tropical regions, commonly found in forests and cultivated areas.",
-        "Medical_Usage": "Used for treating respiratory ailments, fever, and as an expectorant.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Justicia_adhatoda"
-    },
-    {
-        "Name": "Malabar_Spinach",
-        "Description": "A leafy green vegetable with medicinal properties, used in culinary dishes and traditional medicine.",
-        "Location": "Native to tropical and subtropical regions, cultivated for its edible leaves and medicinal uses.",
-        "Medical_Usage": "Used for its nutritional value, as an antioxidant, and for treating digestive disorders.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Basella_alba"
-    },
-    {
-        "Name": "Mango",
-        "Description": "A tropical fruit tree known for its sweet and juicy fruits, valued for their nutritional and medicinal benefits.",
-        "Location": "Native to South Asia, now cultivated in tropical and subtropical regions worldwide.",
-        "Medical_Usage": "Used for its high vitamin C content, as a digestive aid, and for its antioxidant properties.",
-        "Know_More" : "https://simple.wikipedia.org/wiki/Mango"
-    },
-    {
-        "Name": "Marigold",
-        "Description": "A genus of flowering plants known for their bright orange or yellow flowers and medicinal uses.",
-        "Location": "Native to North and Central America, now cultivated worldwide for ornamental and medicinal purposes.",
-        "Medical_Usage": "Used for treating skin conditions, eye inflammation, and as an antiseptic.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Tagetes"
-    },
-    {
-        "Name": "Mint",
-        "Description": "A genus of aromatic herbs known for their culinary uses and medicinal properties.",
-        "Location": "Native to temperate regions, now grown worldwide in gardens and cultivated areas.",
-        "Medical_Usage": "Used for digestive disorders, respiratory ailments, and as a flavoring agent.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Mentha"
-    },
-    {
-        "Name": "Neem",
-        "Description": "A fast-growing evergreen tree known for its bitter leaves and seeds, used in traditional medicine and agriculture.",
-        "Location": "Native to the Indian subcontinent, now grown in tropical and subtropical regions worldwide.",
-        "Medical_Usage": "Used for its antibacterial, antifungal, and antiparasitic properties; also used in skincare products.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Azadirachta_indica"
-    },
-    {
-        "Name": "Nelavembu",
-        "Description": "Also known as Andrographis paniculata, it is a herbaceous plant used in traditional medicine for its potent medicinal properties.",
-        "Location": "Native to South Asian countries, especially India and Sri Lanka.",
-        "Medical_Usage": "Used for treating fever, infections, and as an immune booster.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Andrographis_paniculata"
-    },
-    {
-        "Name": "Nerale",
-        "Description": "Also known as Indian blackberry or jamun, it is a tropical tree with edible fruit known for its medicinal properties.",
-        "Location": "Native to the Indian subcontinent, found in tropical and subtropical regions.",
-        "Medical_Usage": "Used for managing diabetes, improving digestion, and treating skin ailments.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Syzygium_cumini"
-    },
-    {
-        "Name": "Nooni",
-        "Description": "Also known as Noni or Morinda citrifolia, it is a small evergreen tree with a pungent fruit used in traditional medicine.",
-        "Location": "Native to Southeast Asia and Australasia, cultivated in tropical regions worldwide.",
-        "Medical_Usage": "Used for its anti-inflammatory, antioxidant, and immune-boosting properties.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Morinda_citrifolia"
-    },
-    {
-        "Name": "Onion",
-        "Description": "A bulbous vegetable cultivated worldwide for its culinary uses and medicinal properties.",
-        "Location": "Cultivated worldwide in temperate and tropical regions.",
-        "Medical_Usage": "Used for its antibacterial, anti-inflammatory, and antioxidant properties.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Onion"
-    },
-    {
-        "Name": "Padri",
-        "Description": "A plant with medicinal properties used in traditional medicine.",
-        "Location": "Native to tropical and subtropical regions.",
-        "Medical_Usage": "Used for treating fever, digestive disorders, and respiratory ailments.",
-        "Know_More" : "https://indiaflora-ces.iisc.ac.in/FloraPeninsular/herbsheet.php?id=2037&cat=7"
-    },
-    {
-        "Name": "Palak (Spinach)",
-        "Description": "A leafy green vegetable known for its high nutritional value.",
-        "Location": "Cultivated worldwide in temperate and tropical regions.",
-        "Medical_Usage": "Rich in vitamins and minerals, used for improving digestion and as an antioxidant.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Spinach"
-    },
-    {
-        "Name": "Papaya",
-        "Description": "A tropical fruit tree known for its sweet orange fruit and numerous medicinal properties.",
-        "Location": "Native to tropical America, now grown in tropical and subtropical regions worldwide.",
-        "Medical_Usage": "Used for digestive disorders, skin care, and as an anti-inflammatory.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Papaya"
-    },
-    {
-        "Name": "Parijatha",
-        "Description": "Also known as Night-flowering Jasmine, it is a small tree with fragrant flowers used in traditional medicine.",
-        "Location": "Native to South Asia and Southeast Asia, found in tropical and subtropical regions.",
-        "Medical_Usage": "Used for treating coughs, arthritis, and skin diseases.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Nyctanthes_arbor-tristis"
-    },
-    {
-        "Name": "Pea",
-        "Description": "A leguminous plant grown for its edible seeds, known for their nutritional value.",
-        "Location": "Cultivated worldwide in temperate and subtropical regions.",
-        "Medical_Usage": "Rich in protein and fiber, used for improving digestion and overall health.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Pea"
-    },
-    {
-        "Name": "Pepper",
-        "Description": "A flowering vine cultivated for its fruit, which is dried and used as a spice and seasoning.",
-        "Location": "Native to South India, cultivated in tropical regions worldwide.",
-        "Medical_Usage": "Used for its digestive, antioxidant, and anti-inflammatory properties.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Capsicum_annuum"
-    },
-    {
-        "Name": "Pomegranate",
-        "Description": "A fruit-bearing shrub or small tree known for its edible seeds and medicinal properties.",
-        "Location": "Native to the region from Iran to northern India, cultivated in tropical and subtropical regions worldwide.",
-        "Medical_Usage": "Used for its antioxidant, anti-inflammatory, and heart health benefits.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Pomegranate"
-    },
-    {
-        "Name": "Pumpkin",
-        "Description": "A large fruiting vine known for its edible flesh and seeds, used in culinary and medicinal applications.",
-        "Location": "Native to North America, cultivated worldwide in temperate and tropical regions.",
-        "Medical_Usage": "Used for its high vitamin content, as a digestive aid, and for its antioxidant properties.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Pumpkin"
-    },
-    {
-        "Name": "Radish",
-        "Description": "A root vegetable known for its peppery flavor and nutritional value.",
-        "Location": "Cultivated worldwide in temperate and subtropical regions.",
-        "Medical_Usage": "Used for improving digestion, as a diuretic, and for its antioxidant properties.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Radish"
-    },
-    {
-        "Name": "Rose",
-        "Description": "A genus of flowering shrubs known for their fragrant flowers and medicinal uses.",
-        "Location": "Native to temperate regions of the Northern Hemisphere, cultivated worldwide.",
-        "Medical_Usage": "Used for its anti-inflammatory, antioxidant, and skin care properties.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Rose"
-    },
-    {
-        "Name": "Sampige",
-        "Description": "Also known as Champak, it is a large evergreen tree with fragrant flowers used in traditional medicine.",
-        "Location": "Native to South Asia and Southeast Asia, found in tropical and subtropical regions.",
-        "Medical_Usage": "Used for treating fever, inflammation, and skin diseases.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Magnolia_champaca"
-    },
-    {
-        "Name": "Sapota",
-        "Description": "Also known as Sapodilla, it is a tropical fruit tree known for its sweet, brown fruit.",
-        "Location": "Native to southern Mexico, Central America, and the Caribbean, now grown in tropical regions worldwide.",
-        "Medical_Usage": "Used for its high vitamin content, as a digestive aid, and for treating inflammation.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Manilkara_zapota"
-    },
-    {
-        "Name": "Seethaashoka",
-        "Description": "A flowering tree with medicinal properties used in traditional medicine.",
-        "Location": "Native to the Indian subcontinent, found in tropical and subtropical regions.",
-        "Medical_Usage": "Used for treating menstrual disorders, digestive issues, and as an analgesic.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Saraca_asoca"
-    },
-    {
-        "Name": "Seethapala",
-        "Description": "Also known as Custard Apple, it is a small deciduous tree with sweet, edible fruits.",
-        "Location": "Native to the tropical Americas, now grown in tropical regions worldwide.",
-        "Medical_Usage": "Used for its high vitamin content, as a digestive aid, and for treating infections.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Custard_apple"
-    },
-    {
-        "Name": "Spinach",
-        "Description": "A leafy green vegetable known for its high nutritional value.",
-        "Location": "Cultivated worldwide in temperate and tropical regions.",
-        "Medical_Usage": "Rich in vitamins and minerals, used for improving digestion and as an antioxidant.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Spinach"
-    },
-    {
-        "Name": "Tamarind",
-        "Description": "A tropical tree known for its edible fruit pulp, used in culinary and medicinal applications.",
-        "Location": "Native to tropical Africa, now grown in tropical and subtropical regions worldwide.",
-        "Medical_Usage": "Used for its digestive properties, as a laxative, and for treating fever.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Tamarind"
-    },
-    {
-        "Name": "Taro",
-        "Description": "A tropical plant grown for its edible corms and leaves, used in culinary dishes.",
-        "Location": "Native to Southeast Asia, cultivated in tropical and subtropical regions worldwide.",
-        "Medical_Usage": "Used for its high starch content, as a digestive aid, and for its anti-inflammatory properties.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Taro"
-    },
-    {
-        "Name": "Tecoma",
-        "Description": "A genus of flowering plants known for their bright yellow flowers and ornamental value.",
-        "Location": "Native to the Americas, cultivated in tropical and subtropical regions worldwide.",
-        "Medical_Usage": "Used for treating diabetes, digestive disorders, and respiratory ailments.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Tecoma"
-    },
-    {
-        "Name": "Thumbe",
-        "Description": "A herbaceous plant used in traditional medicine for its medicinal properties.",
-        "Location": "Native to tropical and subtropical regions, commonly found in gardens and cultivated areas.",
-        "Medical_Usage": "Used for treating digestive disorders, fever, and skin diseases.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Leucas_aspera"
-    },
-    {
-        "Name": "Tomato",
-        "Description": "A widely cultivated fruiting plant known for its edible fruits used in culinary dishes.",
-        "Location": "Native to South America, now grown worldwide in temperate and tropical regions.",
-        "Medical_Usage": "Rich in vitamins and antioxidants, used for improving digestion and heart health.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Tomato"
-    },
-    {
-        "Name": "Tulsi",
-        "Description": "Also known as Holy Basil, it is a sacred plant in Hinduism with numerous medicinal properties.",
-        "Location": "Native to the Indian subcontinent, cultivated in tropical and subtropical regions.",
-        "Medical_Usage": "Used for its anti-inflammatory, antimicrobial, and stress-relieving properties.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Ocimum_tenuiflorum"
-    },
-    {
-        "Name": "Turmeric",
-        "Description": "A flowering plant whose rhizomes are used as a spice and in traditional medicine.",
-        "Location": "Native to South Asia, cultivated in tropical and subtropical regions worldwide.",
-        "Medical_Usage": "Used for its anti-inflammatory, antioxidant, and antimicrobial properties.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Turmeric"
-    },
-    {
+      },
+      {
         "Name": "Ashoka",
-        "Description": "A small evergreen tree with fragrant flowers, used in traditional medicine.",
-        "Location": "Native to the Indian subcontinent, found in tropical and subtropical regions.",
-        "Medical_Usage": "Used for treating menstrual disorders, uterine ailments, and as an analgesic.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Monoon_longifolium"
-    },
-    {
-        "Name": "Vetiver",
-        "Description": "A perennial grass known for its aromatic roots, used in traditional medicine and perfumery.",
-        "Location": "Native to India, cultivated in tropical and subtropical regions worldwide.",
-        "Medical_Usage": "Used for treating anxiety, insomnia, and as an antiseptic.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Chrysopogon_zizanioides"
-    },
-    {
-        "Name": "Vinca",
-        "Description": "A genus of flowering plants commonly known as periwinkle, used for its medicinal properties.",
-        "Location": "Native to Europe, Northwest Africa, and Southwest Asia, cultivated in temperate and tropical regions.",
-        "Medical_Usage": "Used for treating diabetes, high blood pressure, and cancer.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Vinca"
-    },
-    {
-        "Name": "Winter Cherry",
-        "Description": "Also known as Ashwagandha, it is a small shrub with medicinal properties used in traditional medicine.",
-        "Location": "Native to India, North Africa, and the Middle East.",
-        "Medical_Usage": "Used for its adaptogenic properties, treating stress, anxiety, and improving vitality.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Withania_somnifera"
-    },
-    {
-        "Name": "Jasminum (Jasmine)",
-        "Description": "A genus of flowering plants known for their bright, colorful flowers, used in ornamental gardening and traditional medicine.",
-        "Location": "Native to North and South America, cultivated worldwide in gardens and as decorative plants.",
-        "Medical_Usage": "Used for treating skin diseases and as an anti-inflammatory.",
-        "Know_More" : "https://en.wikipedia.org/wiki/Jasminum_sambac"
-    }
+        "Description": "A rain-forest tree known for its beautiful foliage and fragrant flowers, revered in Indian culture and mythology.",
+        "Location": "Found in the Indian subcontinent, particularly in the Himalayas, Kerala, and Bengal regions.",
+        "Medical_Usage": "Used in traditional medicine for gynecological disorders, pain relief, and as a uterine tonic.",
+        "Know_More": "https://en.wikipedia.org/wiki/Saraca_asoca"
+      },
+      {
+        "Name": "Ashwagandha",
+        "Description": "A small shrub with yellow flowers, known as Indian ginseng or winter cherry, valued for its adaptogenic properties.",
+        "Location": "Native to India and North Africa; thrives in dry regions.",
+        "Medical_Usage": "Used to reduce stress, improve concentration, and increase energy levels; also employed in managing anxiety and boosting fertility.",
+        "Know_More": "https://www.nccih.nih.gov/health/ashwagandha"
+      },
+      {
+        "Name": "Avacado",
+        "Description": "A tropical tree known for its nutrient-rich, creamy fruits.",
+        "Location": "Native to Central and South America; cultivated in tropical and Mediterranean climates worldwide.",
+        "Medical_Usage": "Rich in healthy fats, vitamins, and minerals; supports heart health, aids digestion, and has anti-inflammatory properties.",
+        "Know_More": "https://en.wikipedia.org/wiki/Avocado"
+      },
+      {
+        "Name": "Bamboo",
+        "Description": "A fast-growing grass species known for its tall, woody stems and versatility.",
+        "Location": "Found in diverse climates, from tropical to temperate regions, particularly in Asia.",
+        "Medical_Usage": "Used in traditional medicine for its anti-inflammatory and antibacterial properties; young shoots are edible and nutritious.",
+        "Know_More": "https://en.wikipedia.org/wiki/Bamboo"
+      },
+      {
+        "Name": "Basale",
+        "Description": "A fast-growing, soft-stemmed vine known for its succulent leaves, commonly referred to as Malabar spinach.",
+        "Location": "Native to the Indian subcontinent and Southeast Asia; thrives in tropical and subtropical climates.",
+        "Medical_Usage": "Leaves are rich in vitamins A and C, iron, and calcium; used to treat diarrhea and as a laxative; promotes eye health.",
+        "Know_More": "https://en.wikipedia.org/wiki/Basella_alba"
+      },
+      {
+        "Name": "Betel",
+        "Description": "A vine whose leaves are commonly chewed in South and Southeast Asia for their stimulant effects.",
+        "Location": "Cultivated in tropical climates, particularly in India, Sri Lanka, and Indonesia.",
+        "Medical_Usage": "Used in traditional medicine as a breath freshener, digestive aid, and for its antiseptic properties.",
+        "Know_More": "https://en.wikipedia.org/wiki/Betel"
+      },
+      {
+        "Name": "Betel_Nut",
+        "Description": "The seed of the Areca palm, commonly chewed with betel leaves as a stimulant.",
+        "Location": "Grown in tropical Pacific, Asia, and parts of east Africa.",
+        "Medical_Usage": "Used traditionally to stimulate digestion and as a mild stimulant; however, it poses significant health risks including cancer.",
+        "Know_More": "https://en.wikipedia.org/wiki/Areca_nut"
+      },
+      {
+        "Name": "Brahmi",
+        "Description": "A creeping herb known for its small leaves and purple flowers, valued in Ayurvedic medicine.",
+        "Location": "Found in wet, tropical environments, particularly in India, Nepal, Sri Lanka, and China.",
+        "Medical_Usage": "Used to enhance cognitive function, improve memory, and reduce anxiety; also applied for its antioxidant properties.",
+        "Know_More": "https://en.wikipedia.org/wiki/Bacopa_monnieri"
+      },
+      {
+        "Name": "Castor",
+        "Description": "A fast-growing shrub known for its large, glossy leaves and oil-rich seeds.",
+        "Location": "Native to the southeastern Mediterranean Basin, Eastern Africa, and India; widely cultivated in tropical regions.",
+        "Medical_Usage": "Castor oil extracted from seeds is used as a laxative, in skin care, and for its anti-inflammatory properties.",
+        "Know_More": "https://en.wikipedia.org/wiki/Castor_oil_plant"
+      },
+      {
+        "Name": "Curry_Leaf",
+        "Description": "A small tree whose aromatic leaves are used as a flavoring agent in Indian cuisine.",
+        "Location": "Native to India and Sri Lanka; commonly grown in home gardens.",
+        "Medical_Usage": "Leaves are used to aid digestion, manage diabetes, and have antioxidant properties.",
+        "Know_More": "https://en.wikipedia.org/wiki/Curry_tree"
+      },
+      {
+        "Name": "Doddapatre",
+        "Description": "A fleshy, aromatic herb known for its medicinal properties, commonly referred to as Indian borage.",
+        "Location": "Grows in tropical and subtropical regions; commonly found in India.",
+        "Medical_Usage": "Used to treat coughs, colds, and digestive issues; has antimicrobial properties.",
+        "Know_More": "https://en.wikipedia.org/wiki/Coleus_amboinicus"
+      },
+      {
+        "Name": "Ekka",
+        "Description": "A traditional medicinal plant also known as Crown flower or Calotropis gigantea, noted for its white or lavender flowers.",
+        "Location": "Grows wild in dry regions of India and Southeast Asia.",
+        "Medical_Usage": "Used traditionally for treating joint pain, skin diseases, and respiratory ailments; also has anti-inflammatory properties.",
+        "Know_More": "https://en.wikipedia.org/wiki/Calotropis_gigantea"
+      },
+      {
+        "Name": "Ganike",
+        "Description": "Known as Garcinia indica or Kokum, a tropical fruit-bearing tree with culinary and medicinal uses.",
+        "Location": "Native to the Western Ghats region of India, especially in Maharashtra, Goa, and Karnataka.",
+        "Medical_Usage": "Used to treat acidity, heat strokes, and digestion issues; the rind is used in syrups and juices.",
+        "Know_More": "https://en.wikipedia.org/wiki/Garcinia_indica"
+      },
+      {
+        "Name": "Gauva",
+        "Description": "A tropical fruit known for its sweet flavor and medicinal benefits.",
+        "Location": "Cultivated widely in tropical and subtropical regions, especially in India and Southeast Asia.",
+        "Medical_Usage": "Used to treat diarrhea, diabetes, and cough; rich in vitamin C and antioxidants.",
+        "Know_More": "https://en.wikipedia.org/wiki/Guava"
+      },
+      {
+        "Name": "Geranium",
+        "Description": "A group of flowering plants known for their fragrance and ornamental value.",
+        "Location": "Native to temperate regions; commonly cultivated as ornamental plants worldwide.",
+        "Medical_Usage": "Used in aromatherapy and herbal remedies to relieve stress, inflammation, and skin irritations.",
+        "Know_More": "https://en.wikipedia.org/wiki/Geranium"
+      },
+      {
+        "Name": "Henna",
+        "Description": "A flowering plant used to make dye for coloring hair, skin, and fabrics.",
+        "Location": "Native to North Africa, Asia, and northern Australia.",
+        "Medical_Usage": "Used for its cooling and antimicrobial effects; treats headaches, skin conditions, and fevers.",
+        "Know_More": "https://en.wikipedia.org/wiki/Henna"
+      },
+      {
+        "Name": "Hibiscus",
+        "Description": "A genus of flowering plants known for large, colorful blossoms.",
+        "Location": "Grows in warm-temperate, subtropical and tropical regions throughout the world.",
+        "Medical_Usage": "Used to lower blood pressure, improve liver health, and promote hair growth.",
+        "Know_More": "https://en.wikipedia.org/wiki/Hibiscus"
+      },
+      {
+        "Name": "Honge",
+        "Description": "Known as Indian Beech or Pongamia, a tree valued for its oil-producing seeds.",
+        "Location": "Common in India, especially in dry regions.",
+        "Medical_Usage": "Used for skin diseases, wounds, and as an anti-inflammatory; oil is used in Ayurvedic preparations.",
+        "Know_More": "https://en.wikipedia.org/wiki/Millettia_pinnata"
+      },
+      {
+        "Name": "Insulin",
+        "Description": "Commonly refers to the Insulin Plant (Costus igneus), known for its anti-diabetic properties.",
+        "Location": "Grown in gardens in tropical climates, particularly in South India.",
+        "Medical_Usage": "Used to help regulate blood sugar levels naturally; leaves are consumed directly.",
+        "Know_More": "https://en.wikipedia.org/wiki/Chamaecostus_cuspidatus"
+      },
+      {
+        "Name": "Jasmine",
+        "Description": "A fragrant flowering plant widely used in perfumes and traditional medicine.",
+        "Location": "Native to tropical and warm temperate regions of Eurasia and Oceania.",
+        "Medical_Usage": "Used to reduce anxiety, improve mood, and promote restful sleep; also used in skin treatments.",
+        "Know_More": "https://en.wikipedia.org/wiki/Jasmine"
+      },
+      {
+        "Name": "Lemon",
+        "Description": "A small evergreen tree producing citrus fruits rich in vitamin C.",
+        "Location": "Cultivated in tropical and subtropical climates around the world.",
+        "Medical_Usage": "Boosts immunity, aids digestion, and has detoxifying properties.",
+        "Know_More": "https://en.wikipedia.org/wiki/Lemon"
+      },
+      {
+        "Name": "Lemon_grass",
+        "Description": "A tropical plant known for its citrus scent and culinary uses.",
+        "Location": "Commonly grown in Southeast Asia and India.",
+        "Medical_Usage": "Used to relieve anxiety, improve digestion, and reduce cholesterol; often brewed as tea.",
+        "Know_More": "https://en.wikipedia.org/wiki/Cymbopogon"
+      },
+      {
+        "Name": "Mango",
+        "Description": "A tropical fruit-bearing tree highly prized for its sweet, juicy fruit.",
+        "Location": "Widely grown in India, Southeast Asia, and tropical regions worldwide.",
+        "Medical_Usage": "Rich in vitamins; aids digestion, supports immunity, and promotes eye health.",
+        "Know_More": "https://en.wikipedia.org/wiki/Mango"
+      },
+      {
+        "Name": "Mint",
+        "Description": "A fragrant herb widely used in cooking and traditional medicine.",
+        "Location": "Grows easily in moist areas; cultivated worldwide.",
+        "Medical_Usage": "Aids digestion, relieves nausea and headaches, and has a cooling effect.",
+        "Know_More": "https://en.wikipedia.org/wiki/Mint_(plant)"
+      },
+      {
+        "Name": "Nagadali",
+        "Description": "Known in some regions as Clerodendrum serratum, traditionally used in Ayurveda.",
+        "Location": "Native to India and Southeast Asia; found in forest regions.",
+        "Medical_Usage": "Used to treat respiratory issues like asthma and bronchitis, and as an anti-inflammatory.",
+        "Know_More": "https://en.wikipedia.org/wiki/Clerodendrum"
+      },
+      {
+        "Name": "Neem",
+        "Description": "A fast-growing tree known for its medicinal properties and bitter leaves.",
+        "Location": "Native to the Indian subcontinent; thrives in tropical and semi-tropical climates.",
+        "Medical_Usage": "Used to treat skin conditions, dental problems, and as a natural insecticide.",
+        "Know_More": "https://en.wikipedia.org/wiki/Neem"
+      },
+      {
+        "Name": "Nithyapushpa",
+        "Description": "Commonly known as Periwinkle (Catharanthus roseus), a flowering plant with medicinal uses.",
+        "Location": "Native to Madagascar but widely cultivated in India and other tropical areas.",
+        "Medical_Usage": "Used in cancer treatment (vincristine, vinblastine) and for diabetes in traditional medicine.",
+        "Know_More": "https://en.wikipedia.org/wiki/Catharanthus_roseus"
+      },
+      {
+        "Name": "Nooni",
+        "Description": "Commonly known as Noni (Morinda citrifolia), a tropical fruit-bearing tree.",
+        "Location": "Found in Southeast Asia, Pacific Islands, and India.",
+        "Medical_Usage": "Used to boost immunity, relieve pain, and reduce inflammation; often consumed as juice.",
+        "Know_More": "https://en.wikipedia.org/wiki/Morinda_citrifolia"
+      },
+      {
+        "Name": "Pappaya",
+        "Description": "A tropical tree producing soft, sweet fruits rich in enzymes and vitamins.",
+        "Location": "Native to Central America; widely grown in India and tropical regions.",
+        "Medical_Usage": "Used to improve digestion, reduce inflammation, and aid in skin care.",
+        "Know_More": "https://en.wikipedia.org/wiki/Papaya"
+      },
+      {
+        "Name": "Pepper",
+        "Description": "A flowering vine known for its spicy fruit, commonly used as a seasoning.",
+        "Location": "Native to South India; cultivated in tropical regions worldwide.",
+        "Medical_Usage": "Stimulates digestion, relieves cold symptoms, and has antimicrobial properties.",
+        "Know_More": "https://en.wikipedia.org/wiki/Black_pepper"
+      },
+      {
+        "Name": "Pomegranate",
+        "Description": "A fruit-bearing deciduous shrub known for its red, juicy seeds.",
+        "Location": "Cultivated in the Mediterranean region, Middle East, and India.",
+        "Medical_Usage": "Rich in antioxidants; supports heart health, reduces inflammation, and may prevent cancer.",
+        "Know_More": "https://en.wikipedia.org/wiki/Pomegranate"
+      },
+      {
+        "Name": "Raktachandini",
+        "Description": "Also known as Red Sandalwood (Pterocarpus santalinus), used in traditional medicine.",
+        "Location": "Native to India, especially Andhra Pradesh.",
+        "Medical_Usage": "Used for treating skin diseases, wounds, and as an anti-inflammatory agent.",
+        "Know_More": "https://en.wikipedia.org/wiki/Pterocarpus_santalinus"
+      },
+      {
+        "Name": "Rose",
+        "Description": "A widely cultivated ornamental flower known for its fragrance and beauty.",
+        "Location": "Grown globally; thrives in temperate and subtropical regions.",
+        "Medical_Usage": "Rose petals and oil are used for skin care, stress relief, and digestive health.",
+        "Know_More": "https://en.wikipedia.org/wiki/Rose"
+      },
+      {
+        "Name": "Sapota",
+        "Description": "Also known as Chikoo, a tropical fruit with sweet, grainy pulp.",
+        "Location": "Native to Mexico and Central America; widely grown in India.",
+        "Medical_Usage": "Improves digestion, boosts immunity, and has anti-inflammatory properties.",
+        "Know_More": "https://en.wikipedia.org/wiki/Manilkara_zapota"
+      },
+      {
+        "Name": "Tulasi",
+        "Description": "Also called Holy Basil, a sacred plant in Indian culture with medicinal benefits.",
+        "Location": "Widely cultivated in Indian households and temples.",
+        "Medical_Usage": "Used for respiratory disorders, stress relief, and boosting immunity.",
+        "Know_More": "https://en.wikipedia.org/wiki/Ocimum_tenuiflorum"
+      },
+      {
+        "Name": "Wood_sorel",
+        "Description": "A small herbaceous plant with sour-tasting leaves, commonly known as Indian sorrel.",
+        "Location": "Found in moist, shady areas across India and tropical regions.",
+        "Medical_Usage": "Used for treating fever, urinary infections, and as an appetite stimulant.",
+        "Know_More": "https://en.wikipedia.org/wiki/Oxalis"
+      }
 ]
