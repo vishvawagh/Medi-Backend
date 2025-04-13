@@ -32,37 +32,38 @@ CORS(app)
 #     print("Model loading error:", e)
 #     plant_model = None
 #     leaf_model = None
-import requests
+import os
+import gdown
 
-# Model URLs (🔁 Replace these with your actual URLs)
-PLANT_MODEL_URL = "https://drive.google.com/uc?export=download&id=15F883O011XGyC_8HS3Xe-IX8_B6xu8Ss"
-LEAF_MODEL_URL = "https://drive.google.com/uc?export=download&id=13rHVQ7A9i_qfJkfU_lkMMJtav_a2avCW"
+PLANT_MODEL_PATH = "my_modelp.keras"
+LEAF_MODEL_PATH = "my_modell.keras"
 
-# Function to download the model if not exists
-def download_model(url, filename):
-    if not os.path.exists(filename):
-        print(f"Downloading model: {filename} ...")
-        r = requests.get(url, stream=True)
-        if r.status_code == 200:
-            with open(filename, 'wb') as f:
-                for chunk in r.iter_content(1024):
-                    f.write(chunk)
-            print(f"Downloaded {filename}")
-        else:
-            raise Exception(f"Failed to download model from {url}")
+PLANT_MODEL_URL = "https://drive.google.com/uc?id=15F883O011XGyC_8HS3Xe-IX8_B6xu8Ss"
+LEAF_MODEL_URL = "https://drive.google.com/uc?id=13rHVQ7A9i_qfJkfU_lkMMJtav_a2avCW"
 
-# Download + Load models
+def download_model_if_needed(path, url):
+    if not os.path.exists(path):
+        print(f"Downloading model: {path} ...")
+        try:
+            gdown.download(url, path, quiet=False)
+            print(f"Downloaded {path}")
+        except Exception as e:
+            print(f" Failed to download model from {url}")
+            raise e
+
 try:
-    download_model(PLANT_MODEL_URL, "my_modelp.keras")
-    download_model(LEAF_MODEL_URL, "my_modell.keras")
+    download_model_if_needed(PLANT_MODEL_PATH, PLANT_MODEL_URL)
+    download_model_if_needed(LEAF_MODEL_PATH, LEAF_MODEL_URL)
 
-    plant_model = tf.keras.models.load_model("my_modelp.keras")
-    leaf_model = tf.keras.models.load_model("my_modell.keras")
-    print("Models loaded.")
+    plant_model = tf.keras.models.load_model(PLANT_MODEL_PATH)
+    leaf_model = tf.keras.models.load_model(LEAF_MODEL_PATH)
+    print(" Models loaded successfully.")
+
 except Exception as e:
     print("Model loading error:", e)
     plant_model = None
     leaf_model = None
+
 
 # Load plant and leaf data
 try:
