@@ -6,3 +6,4 @@ Pillow
 python-dotenv
 requests
 google-generativeai
+gdown
