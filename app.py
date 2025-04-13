@@ -35,8 +35,8 @@ CORS(app)
 import requests
 
 # Model URLs (🔁 Replace these with your actual URLs)
-PLANT_MODEL_URL = "https://drive.google.com/file/d/15F883O011XGyC_8HS3Xe-IX8_B6xu8Ss/view?usp=drive_link"
-LEAF_MODEL_URL = "https://drive.google.com/file/d/13rHVQ7A9i_qfJkfU_lkMMJtav_a2avCW/view?usp=sharing"
+PLANT_MODEL_URL = "https://drive.google.com/uc?export=download&id=15F883O011XGyC_8HS3Xe-IX8_B6xu8Ss"
+LEAF_MODEL_URL = "https://drive.google.com/uc?export=download&id=13rHVQ7A9i_qfJkfU_lkMMJtav_a2avCW"
 
 # Function to download the model if not exists
 def download_model(url, filename):
