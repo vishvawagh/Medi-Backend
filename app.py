@@ -9,7 +9,7 @@ import os
 import json
 import traceback
 import google.generativeai as genai  
-
+os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
 # Load environment variables
 load_dotenv()
 gemini_api_key = os.getenv("GEMINI_API_KEY")
