@@ -24,46 +24,46 @@ gemini_model = genai.GenerativeModel("models/gemini-2.0-flash")
 app = Flask(__name__)
 CORS(app)
 
-# Load models
-# try:
-#     plant_model = tf.keras.models.load_model(r"C:\Users\vishva\Desktop\Projects\Model\my_modelp.keras")
-#     leaf_model = tf.keras.models.load_model(r"C:\Users\vishva\Desktop\Projects\Model\my_modell.keras")
-#     print("Models loaded.")
-# except Exception as e:
-#     print("Model loading error:", e)
-#     plant_model = None
-#     leaf_model = None
-import os
-import gdown
-
-PLANT_MODEL_PATH = "my_modelp.keras"
-LEAF_MODEL_PATH = "my_modell.keras"
-
-PLANT_MODEL_URL = "https://drive.google.com/uc?id=15F883O011XGyC_8HS3Xe-IX8_B6xu8Ss"
-LEAF_MODEL_URL = "https://drive.google.com/uc?id=13rHVQ7A9i_qfJkfU_lkMMJtav_a2avCW"
-
-def download_model_if_needed(path, url):
-    if not os.path.exists(path):
-        print(f"Downloading model: {path} ...")
-        try:
-            gdown.download(url, path, quiet=False)
-            print(f"Downloaded {path}")
-        except Exception as e:
-            print(f" Failed to download model from {url}")
-            raise e
-
+Load models
 try:
-    download_model_if_needed(PLANT_MODEL_PATH, PLANT_MODEL_URL)
-    download_model_if_needed(LEAF_MODEL_PATH, LEAF_MODEL_URL)
-
-    plant_model = tf.keras.models.load_model(PLANT_MODEL_PATH)
-    leaf_model = tf.keras.models.load_model(LEAF_MODEL_PATH)
-    print(" Models loaded successfully.")
-
+    plant_model = tf.keras.models.load_model("/home/ubuntu/Medi-Backend/models/my_modelp.keras")
+    leaf_model = tf.keras.models.load_model("/home/ubuntu/Medi-Backend/models/my_modell.keras")
+    print("Models loaded.")
 except Exception as e:
     print("Model loading error:", e)
     plant_model = None
     leaf_model = None
+# import os
+# import gdown
+
+# PLANT_MODEL_PATH = "my_modelp.keras"
+# LEAF_MODEL_PATH = "my_modell.keras"
+
+# PLANT_MODEL_URL = "https://drive.google.com/uc?id=15F883O011XGyC_8HS3Xe-IX8_B6xu8Ss"
+# LEAF_MODEL_URL = "https://drive.google.com/uc?id=13rHVQ7A9i_qfJkfU_lkMMJtav_a2avCW"
+
+# def download_model_if_needed(path, url):
+#     if not os.path.exists(path):
+#         print(f"Downloading model: {path} ...")
+#         try:
+#             gdown.download(url, path, quiet=False)
+#             print(f"Downloaded {path}")
+#         except Exception as e:
+#             print(f" Failed to download model from {url}")
+#             raise e
+
+# try:
+#     download_model_if_needed(PLANT_MODEL_PATH, PLANT_MODEL_URL)
+#     download_model_if_needed(LEAF_MODEL_PATH, LEAF_MODEL_URL)
+
+#     plant_model = tf.keras.models.load_model(PLANT_MODEL_PATH)
+#     leaf_model = tf.keras.models.load_model(LEAF_MODEL_PATH)
+#     print(" Models loaded successfully.")
+
+# except Exception as e:
+#     print("Model loading error:", e)
+#     plant_model = None
+#     leaf_model = None
 
 
 # Load plant and leaf data
