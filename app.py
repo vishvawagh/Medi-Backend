@@ -66,7 +66,7 @@ except Exception as e:
     leaf_model = None
 
 
-Load plant and leaf data
+# Load plant and leaf data
 try:
     with open("plantinfo.json", 'r', encoding='utf-8') as f:
         plant_data = json.load(f)
