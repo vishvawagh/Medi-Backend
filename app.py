@@ -24,15 +24,15 @@ gemini_model = genai.GenerativeModel("models/gemini-2.0-flash")
 app = Flask(__name__)
 CORS(app)
 
-Load models
-try:
-    plant_model = tf.keras.models.load_model("/home/ubuntu/Medi-Backend/models/my_modelp.keras")
-    leaf_model = tf.keras.models.load_model("/home/ubuntu/Medi-Backend/models/my_modell.keras")
-    print("Models loaded.")
-except Exception as e:
-    print("Model loading error:", e)
-    plant_model = None
-    leaf_model = None
+# Load models
+# try:
+#     plant_model = tf.keras.models.load_model("/home/ubuntu/Medi-Backend/models/my_modelp.keras")
+#     leaf_model = tf.keras.models.load_model("/home/ubuntu/Medi-Backend/models/my_modell.keras")
+#     print("Models loaded.")
+# except Exception as e:
+#     print("Model loading error:", e)
+#     plant_model = None
+#     leaf_model = None
 import os
 import gdown
 
@@ -66,16 +66,16 @@ except Exception as e:
     leaf_model = None
 
 
-# Load plant and leaf data
-# try:
-#     with open("plantinfo.json", 'r', encoding='utf-8') as f:
-#         plant_data = json.load(f)
-#     with open("leavesinfo.json", 'r', encoding='utf-8') as f:
-#         leaf_data = json.load(f)
-# except Exception as e:
-#     print("Data loading error:", e)
-#     plant_data = []
-#     leaf_data = []
+Load plant and leaf data
+try:
+    with open("plantinfo.json", 'r', encoding='utf-8') as f:
+        plant_data = json.load(f)
+    with open("leavesinfo.json", 'r', encoding='utf-8') as f:
+        leaf_data = json.load(f)
+except Exception as e:
+    print("Data loading error:", e)
+    plant_data = []
+    leaf_data = []
 
 # Image preprocessing
 def preprocess_image(image_bytes):
