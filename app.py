@@ -33,49 +33,49 @@ except Exception as e:
     print("Model loading error:", e)
     plant_model = None
     leaf_model = None
-# import os
-# import gdown
+import os
+import gdown
 
-# PLANT_MODEL_PATH = "my_modelp.keras"
-# LEAF_MODEL_PATH = "my_modell.keras"
+PLANT_MODEL_PATH = "my_modelp.keras"
+LEAF_MODEL_PATH = "my_modell.keras"
 
-# PLANT_MODEL_URL = "https://drive.google.com/uc?id=15F883O011XGyC_8HS3Xe-IX8_B6xu8Ss"
-# LEAF_MODEL_URL = "https://drive.google.com/uc?id=13rHVQ7A9i_qfJkfU_lkMMJtav_a2avCW"
+PLANT_MODEL_URL = "https://drive.google.com/uc?id=15F883O011XGyC_8HS3Xe-IX8_B6xu8Ss"
+LEAF_MODEL_URL = "https://drive.google.com/uc?id=13rHVQ7A9i_qfJkfU_lkMMJtav_a2avCW"
 
-# def download_model_if_needed(path, url):
-#     if not os.path.exists(path):
-#         print(f"Downloading model: {path} ...")
-#         try:
-#             gdown.download(url, path, quiet=False)
-#             print(f"Downloaded {path}")
-#         except Exception as e:
-#             print(f" Failed to download model from {url}")
-#             raise e
+def download_model_if_needed(path, url):
+    if not os.path.exists(path):
+        print(f"Downloading model: {path} ...")
+        try:
+            gdown.download(url, path, quiet=False)
+            print(f"Downloaded {path}")
+        except Exception as e:
+            print(f" Failed to download model from {url}")
+            raise e
 
-# try:
-#     download_model_if_needed(PLANT_MODEL_PATH, PLANT_MODEL_URL)
-#     download_model_if_needed(LEAF_MODEL_PATH, LEAF_MODEL_URL)
+try:
+    download_model_if_needed(PLANT_MODEL_PATH, PLANT_MODEL_URL)
+    download_model_if_needed(LEAF_MODEL_PATH, LEAF_MODEL_URL)
 
-#     plant_model = tf.keras.models.load_model(PLANT_MODEL_PATH)
-#     leaf_model = tf.keras.models.load_model(LEAF_MODEL_PATH)
-#     print(" Models loaded successfully.")
+    plant_model = tf.keras.models.load_model(PLANT_MODEL_PATH)
+    leaf_model = tf.keras.models.load_model(LEAF_MODEL_PATH)
+    print(" Models loaded successfully.")
 
-# except Exception as e:
-#     print("Model loading error:", e)
-#     plant_model = None
-#     leaf_model = None
+except Exception as e:
+    print("Model loading error:", e)
+    plant_model = None
+    leaf_model = None
 
 
 # Load plant and leaf data
-try:
-    with open("plantinfo.json", 'r', encoding='utf-8') as f:
-        plant_data = json.load(f)
-    with open("leavesinfo.json", 'r', encoding='utf-8') as f:
-        leaf_data = json.load(f)
-except Exception as e:
-    print("Data loading error:", e)
-    plant_data = []
-    leaf_data = []
+# try:
+#     with open("plantinfo.json", 'r', encoding='utf-8') as f:
+#         plant_data = json.load(f)
+#     with open("leavesinfo.json", 'r', encoding='utf-8') as f:
+#         leaf_data = json.load(f)
+# except Exception as e:
+#     print("Data loading error:", e)
+#     plant_data = []
+#     leaf_data = []
 
 # Image preprocessing
 def preprocess_image(image_bytes):
